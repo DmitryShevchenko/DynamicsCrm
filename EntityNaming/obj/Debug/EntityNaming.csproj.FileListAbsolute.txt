@@ -1,0 +1,11 @@
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\EntityNaming\bin\Debug\EntityNaming.dll
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\EntityNaming\bin\Debug\EntityNaming.pdb
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\EntityNaming\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\EntityNaming\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\EntityNaming\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\EntityNaming\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\EntityNaming\obj\Debug\EntityNaming.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\EntityNaming\obj\Debug\EntityNaming.csproj.CopyComplete
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\EntityNaming\obj\Debug\EntityNaming.dll
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\EntityNaming\obj\Debug\EntityNaming.pdb
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\EntityNaming\obj\Debug\EntityNaming.csprojAssemblyReference.cache

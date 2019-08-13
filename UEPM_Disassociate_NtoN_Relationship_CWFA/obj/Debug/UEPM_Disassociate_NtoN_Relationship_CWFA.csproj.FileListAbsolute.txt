@@ -1,0 +1,13 @@
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\UEPM_Disassociate_NtoN_Relationship_CWFA\bin\Debug\UEPM_Disassociate_NtoN_Relationship_CWFA.dll
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\UEPM_Disassociate_NtoN_Relationship_CWFA\bin\Debug\UEPM_Disassociate_NtoN_Relationship_CWFA.pdb
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\UEPM_Disassociate_NtoN_Relationship_CWFA\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\UEPM_Disassociate_NtoN_Relationship_CWFA\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\UEPM_Disassociate_NtoN_Relationship_CWFA\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\UEPM_Disassociate_NtoN_Relationship_CWFA\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\UEPM_Disassociate_NtoN_Relationship_CWFA\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\UEPM_Disassociate_NtoN_Relationship_CWFA\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\UEPM_Disassociate_NtoN_Relationship_CWFA\obj\Debug\UEPM_Disassociate_NtoN_Relationship_CWFA.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\UEPM_Disassociate_NtoN_Relationship_CWFA\obj\Debug\UEPM_Disassociate_NtoN_Relationship_CWFA.csproj.CopyComplete
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\UEPM_Disassociate_NtoN_Relationship_CWFA\obj\Debug\UEPM_Disassociate_NtoN_Relationship_CWFA.dll
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\UEPM_Disassociate_NtoN_Relationship_CWFA\obj\Debug\UEPM_Disassociate_NtoN_Relationship_CWFA.pdb
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\UEPM_Disassociate_NtoN_Relationship_CWFA\obj\Debug\UEPM_Disassociate_NtoN_Relationship_CWFA.csprojAssemblyReference.cache

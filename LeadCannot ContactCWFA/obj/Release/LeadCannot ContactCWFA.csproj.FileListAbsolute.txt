@@ -1,0 +1,13 @@
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\LeadCannot ContactCWFA\bin\Release\LeadCannot_ContactCWFA.dll
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\LeadCannot ContactCWFA\bin\Release\LeadCannot_ContactCWFA.pdb
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\LeadCannot ContactCWFA\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\LeadCannot ContactCWFA\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\LeadCannot ContactCWFA\bin\Release\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\LeadCannot ContactCWFA\bin\Release\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\LeadCannot ContactCWFA\bin\Release\Microsoft.Xrm.Sdk.xml
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\LeadCannot ContactCWFA\bin\Release\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\LeadCannot ContactCWFA\obj\Release\LeadCannot ContactCWFA.csprojAssemblyReference.cache
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\LeadCannot ContactCWFA\obj\Release\LeadCannot ContactCWFA.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\LeadCannot ContactCWFA\obj\Release\LeadCannot ContactCWFA.csproj.CopyComplete
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\LeadCannot ContactCWFA\obj\Release\LeadCannot_ContactCWFA.dll
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\LeadCannot ContactCWFA\obj\Release\LeadCannot_ContactCWFA.pdb

@@ -1,0 +1,13 @@
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\ContactGroupAssociation\bin\Debug\ContactGroupAssociation.dll
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\ContactGroupAssociation\bin\Debug\ContactGroupAssociation.pdb
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\ContactGroupAssociation\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\ContactGroupAssociation\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\ContactGroupAssociation\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\ContactGroupAssociation\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\ContactGroupAssociation\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\ContactGroupAssociation\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\ContactGroupAssociation\obj\Debug\ContactGroupAssociation.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\ContactGroupAssociation\obj\Debug\ContactGroupAssociation.csproj.CopyComplete
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\ContactGroupAssociation\obj\Debug\ContactGroupAssociation.dll
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\ContactGroupAssociation\obj\Debug\ContactGroupAssociation.pdb
+C:\Users\Dmitry\RiderProjects\Diploma Dynamics Crm\ContactGroupAssociation\obj\Debug\ContactGroupAssociation.csprojAssemblyReference.cache
